@@ -1,0 +1,14 @@
+{
+  "name": "guestbook-api",
+  "version": "1.0.0",
+  "description": "A simple guestbook API using Express.js and SQLite",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "sql.js": "^1.11.0"
+  }
+}
